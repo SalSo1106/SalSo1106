@@ -2,7 +2,7 @@
 - 👀 I’m interested in expanding my coding knowledge.
 - 🌱 I’m currently learning C++, (Python occasionally)
 - 💞️ I’m looking to collaborate on open projects that need new small features.
-- 📫 How to reach me sovisal2019@gmail.com
+- 📫 How to reach me visalso.fefw@gmail.com, sovisal2019@gmail.com
 
 <!---
 SalSo1106/SalSo1106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
