@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalSo1106
-- 👀 I’m interested in expanding my coding knowledge.
-- 🌱 I’m currently learning C++, (Python occasionally)
+- 👀 I’m interested in expanding my coding knowledge to be qualified for the industry.
+- 🌱 I’m currently learning C++, Python (occasionally), C# and .Net, Networking, and SQL.
 - 💞️ I’m looking to collaborate on open projects that need new small features.
 - 📫 How to reach me visalso.fefw@gmail.com, sovisal2019@gmail.com
 
